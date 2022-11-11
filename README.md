@@ -10,6 +10,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshgupta1&layout=compact)](https://github.com/nileshgupta1/github-readme-stats)
 
-![alt text](http://url/to/(https://profile-counter.glitch.me/nileshgupta1/count.svg))
-
-![Visitors count](http://(https://profile-counter.glitch.me/advaitgupta/count.svg)/to/img.png)
